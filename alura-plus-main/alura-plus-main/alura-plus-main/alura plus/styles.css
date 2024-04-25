@@ -6,6 +6,7 @@
     --fonte-principal: 'Inter';
 }
 
+
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
@@ -40,13 +41,8 @@ body {
     text-decoration: none;
 }
 
+
 .botao_secundario {
     background-color: transparent;
     border: 2px solid var(--branco-principal)
 }
-
-.container__aviso {
-    font-size: 12px;
-    color: var(--cinza-secundario);
-}
-
